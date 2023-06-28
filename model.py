@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun May 10 21:42:46 2020
-
-@author: serdarhelli
+@author: Jagadeesh M, Premkumar S
 """
 #### MODEL ###
 from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, BatchNormalization,concatenate,Conv2DTranspose,Dropout

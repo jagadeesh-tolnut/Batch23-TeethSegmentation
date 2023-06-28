@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri May 14 17:39:54 2021
 
-@author: serdarhelli
+@author: Jagadeesh M, Premkumar S
 """
 
 import requests

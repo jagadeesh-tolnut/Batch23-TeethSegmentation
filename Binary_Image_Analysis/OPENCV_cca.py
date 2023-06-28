@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul  5 14:03:25 2020
 
-@author: serdarhelli
+@author: Jagadeesh M, Premkumar S
 """
 
 import cv2

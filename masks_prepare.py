@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-
-@author: serdarhelli
+@author: Jagadeesh M, Premkumar S
 """
 
 import os
